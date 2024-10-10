@@ -1,6 +1,6 @@
  👤 Yoiki Profile
 
-![Profile Banner](https://example.com/profile-banner.png)
+![Profile Banner](https://images.boosty.to/blog/6336616/cover?change_time=1691691284&croped=1&mh=480)
 
 ## 🖋 Описание
 
