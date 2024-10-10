@@ -3,21 +3,18 @@
 
 ## 🖋 Описание
 
-Пример оформления карточки профиля. Включает информацию о проекте, использовании и ссылки на полезные ресурсы. 
+BEFORE BUYING!
+if u have any questions before buying contact with me in my discord or DM me on Boosty.
+my own discord in social links on boosty page.  
+info about cars check in my discord #car-private
 
 ## 🛠 Технологии
 
-- Design: HTML, CSS, Markdown
-- Framework: React, Bootstrap
+- Design: Blender Assetto corsa reader
 
 ## 📂 Структура
 
-- Profile Section: Визуализация профиля с изображением и основными данными.
-- Project Section: Описание и ссылки на активные проекты.
-- Contact Section: Информация для связи.
-
-## 🚀 Установка
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-username/profile-card.git
+#car-private|
+#car-free|
+#map-private|
+#map-free|
